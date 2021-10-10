@@ -9,6 +9,6 @@ function App() {
       <Monster/>
     </div>
   );
-}
+} 
 
 export default App;
